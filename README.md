@@ -93,3 +93,5 @@ This is a sample text for training.
 - Based on the "Attention Is All You Need" paper by Vaswani et al.
 - Thanks to the open-source community for valuable feedback
 ```
+
+**Built with ❤️ by [Brijesh Sukhadiya](https://github.com/BrijeshSukhadiya)**
